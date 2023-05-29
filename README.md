@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Msambi-ops
-- 👀 I’m interested in frontend web dev.
-- 🌱 I’m currently learning JS.
+- 👀 I’m interested in Software Engineering.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on JS, PHP, MySQL, CSS, and HTML.
 - 📫 How to reach me msambiroman@gmail.com
 
