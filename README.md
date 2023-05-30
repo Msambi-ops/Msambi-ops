@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Msambi-ops
+- 👋 Hi, I’m Roman Msambi.
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on JS, PHP, MySQL, CSS, and HTML.
