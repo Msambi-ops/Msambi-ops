@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roman Msambi.
 - 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on JS, PHP, MySQL, CSS, and HTML.
 - 📫 How to reach me msambiroman@gmail.com
 
