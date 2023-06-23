@@ -5,8 +5,8 @@ int max(int num1, int num2);
 int main()
 {
 //define local variables
-	int a = 100;
-	int b = 200;
+	int a = 200;
+	int b = 300;
 	int ret;
 
 //call the function to get maximum value
